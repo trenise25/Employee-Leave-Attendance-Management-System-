@@ -172,4 +172,20 @@ Base URL: `/api`
 ### **Dashboard**
 - `GET /api/dashboard/summary`
 
+## Screenshots 
+### Employee:
+<img width="479" height="653" alt="image" src="https://github.com/user-attachments/assets/9a2d52b1-11f4-4f57-b884-78d3fc66acf8" />
+<img width="1919" height="569" alt="image" src="https://github.com/user-attachments/assets/16a8f33c-d448-4281-a617-2410be0587c8" />
+<img width="1814" height="609" alt="image" src="https://github.com/user-attachments/assets/e05d331b-b38f-4bfe-95a4-760c83b0c302" />
+<img width="1784" height="802" alt="image" src="https://github.com/user-attachments/assets/9fdf73e8-fae5-409d-b6ce-004cda10e35b" />
+<img width="763" height="646" alt="image" src="https://github.com/user-attachments/assets/e88fe53a-5831-4a84-9a9c-930b06747984" />
+
+### Admin:
+<img width="1463" height="606" alt="image" src="https://github.com/user-attachments/assets/0fa27db4-5b69-45cc-bb38-2ffc6715d54f" />
+<img width="1497" height="752" alt="image" src="https://github.com/user-attachments/assets/326b5600-7fc5-4754-b74e-9fccef144637" />
+<img width="1668" height="542" alt="image" src="https://github.com/user-attachments/assets/90be736c-b331-4af8-b5b5-5952ffd1b6f1" />
+<img width="1668" height="542" alt="image" src="https://github.com/user-attachments/assets/d2a8e1d7-3b6e-4539-b6db-36f22413ceae" />
+
+
 ---
+
